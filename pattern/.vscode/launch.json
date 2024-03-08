@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/abuha/OneDrive/Desktop/DSA/basic",
-      "program": "c:/Users/abuha/OneDrive/Desktop/DSA/basic/build/Debug/outDebug",
+      "cwd": "c:/Users/abuha/OneDrive/Desktop/DSA/pattern",
+      "program": "c:/Users/abuha/OneDrive/Desktop/DSA/pattern/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
